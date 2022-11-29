@@ -42,9 +42,9 @@
                 </div>
                 
                 <li class="mr-3 flex-1">
-                    <a href="/pacotes"
+                    <a href="/tutorial"
                         class="block py-1 md:py-3 align-middle text-black dark:text-gray-100 dark:hover:text-lime-300 no-underline border-b-2 border-gray-800 hover:border-lime-500 space-x-1">
-                        <i class="fas fa-archive pr-0 md:pr-3 text-black"></i><span class="pb-1 md:pb-0 text-xs md:text-base block md:inline-block">Combos/Pacotes</span>
+                        <i class="fa-solid fa-book pr-0 md:pr-3 text-black"></i><span class="pb-1 md:pb-0 text-xs md:text-base block md:inline-block">Tutorial</span>
                     </a>
                 </li>
 
